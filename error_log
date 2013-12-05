@@ -1,0 +1,260 @@
+[09-Mar-2013 23:28:49] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:28:49] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:28:49] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[09-Mar-2013 23:28:52] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:28:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:28:52] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[09-Mar-2013 23:30:23] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:30:23] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:30:23] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[09-Mar-2013 23:33:27] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:33:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:33:27] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[09-Mar-2013 23:35:38] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:35:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:35:38] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[09-Mar-2013 23:49:26] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:49:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:49:26] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[09-Mar-2013 23:49:28] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:49:28] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[09-Mar-2013 23:49:28] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[10-Mar-2013 00:01:40] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:01:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:01:40] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[10-Mar-2013 00:20:45] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:20:45] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:20:45] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[10-Mar-2013 00:21:58] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:21:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:21:58] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[10-Mar-2013 00:22:26] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:22:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:22:26] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[10-Mar-2013 00:28:54] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:28:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:28:54] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[10-Mar-2013 00:36:22] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:36:22] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:36:22] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[10-Mar-2013 00:36:23] PHP Warning:  include(/home/snest/public_html/lib/Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:36:23] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/snest/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/webroot/index.php on line 83
+[10-Mar-2013 00:36:23] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/snest/public_html/app/webroot/index.php on line 88
+[10-Mar-2013 00:37:22] PHP Warning:  require(/home/snest/public_html/lib/Cake/Core/App.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/snest/public_html/lib/Cake/bootstrap.php on line 133
+[10-Mar-2013 00:37:22] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/snest/public_html/lib/Cake/Core/App.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/lib/Cake/bootstrap.php on line 133
+[10-Mar-2013 00:37:23] PHP Warning:  require(/home/snest/public_html/lib/Cake/Core/App.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/snest/public_html/lib/Cake/bootstrap.php on line 133
+[10-Mar-2013 00:37:23] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/snest/public_html/lib/Cake/Core/App.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/lib/Cake/bootstrap.php on line 133
+[10-Mar-2013 00:50:40] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 00:50:48] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 00:52:48] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 00:52:55] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 00:53:00] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 00:53:54] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 00:54:06] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 00:58:13] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 01:01:28] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 01:03:30] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 01:05:35] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 01:10:36] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 01:12:49] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 01:14:25] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 01:15:55] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 01:15:56] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[10-Mar-2013 01:20:00] PHP Fatal error:  Class 'PDO' not found in /home/snest/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 178
+[11-Mar-2013 01:45:00] PHP Warning:  unlink(/home/snest/public_html/app/tmp/cache/persistent/myapp_cake_core_cake_en-us) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/snest/public_html/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[11-Mar-2013 01:45:00] PHP Warning:  unlink(/home/snest/public_html/app/tmp/cache/models/myapp_cake_model_default_snest_main_images) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/snest/public_html/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[11-Mar-2013 01:45:00] PHP Warning:  unlink(/home/snest/public_html/app/tmp/cache/models/myapp_cake_model_default_snest_main_causes) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/snest/public_html/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[11-Mar-2013 18:57:09] PHP Parse error:  syntax error, unexpected T_VAR in /home/snest/public_html/app/Controller/ImagesController.php on line 3
+[11-Mar-2013 18:58:14] PHP Parse error:  syntax error, unexpected T_VAR in /home/snest/public_html/app/Controller/ImagesController.php on line 3
+[11-Mar-2013 18:58:33] PHP Parse error:  syntax error, unexpected T_VAR in /home/snest/public_html/app/Controller/ImagesController.php on line 3
+[11-Mar-2013 18:59:31] PHP Parse error:  syntax error, unexpected T_VAR in /home/snest/public_html/app/Controller/ImagesController.php on line 3
+[11-Mar-2013 19:01:22] PHP Parse error:  syntax error, unexpected T_VAR in /home/snest/public_html/app/Controller/ImagesController.php on line 3
+[11-Mar-2013 19:02:15] PHP Parse error:  syntax error, unexpected T_VAR in /home/snest/public_html/app/Controller/ImagesController.php on line 3
+[11-Mar-2013 19:02:37] PHP Parse error:  syntax error, unexpected T_VAR in /home/snest/public_html/app/Controller/ImagesController.php on line 3
+[11-Mar-2013 19:03:39] PHP Fatal error:  Call to a member function cropImage() on a non-object in /home/snest/public_html/app/Controller/ImagesController.php on line 55
+[11-Mar-2013 19:12:13] PHP Fatal error:  Class 'JqImgcropComponent' not found in /home/snest/public_html/app/Controller/ImagesController.php on line 51
+[11-Mar-2013 19:22:41] PHP Fatal error:  Call to a member function cropImage() on a non-object in /home/snest/public_html/app/Controller/ImagesController.php on line 57
+[12-Mar-2013 06:32:47] PHP Fatal error:  Class 'JqImgcrop' not found in /home/snest/public_html/app/Controller/ImagesController.php on line 57
+[12-Mar-2013 06:33:11] PHP Fatal error:  Class 'JqImgcrop' not found in /home/snest/public_html/app/Controller/ImagesController.php on line 57
+[12-Mar-2013 06:33:31] PHP Fatal error:  Class 'JqImgcrop' not found in /home/snest/public_html/app/Controller/ImagesController.php on line 57
+[12-Mar-2013 08:21:55] PHP Parse error:  syntax error, unexpected '*' in /home/snest/public_html/app/Controller/ImagesController.php on line 103
+[12-Mar-2013 08:21:57] PHP Parse error:  syntax error, unexpected '*' in /home/snest/public_html/app/Controller/ImagesController.php on line 103
+[12-Mar-2013 08:23:13] PHP Parse error:  syntax error, unexpected '*' in /home/snest/public_html/app/Controller/ImagesController.php on line 103
+[12-Mar-2013 08:23:33] PHP Parse error:  syntax error, unexpected '*' in /home/snest/public_html/app/Controller/ImagesController.php on line 103
+[25-Mar-2013 14:17:10] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/snest/public_html/app/Controller/ImagesController.php on line 59
+[25-Mar-2013 14:31:37] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/snest/public_html/app/Controller/ImagesController.php on line 60
+[25-Mar-2013 16:32:38] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/snest/public_html/app/Controller/CausesController.php on line 264
+[25-Mar-2013 16:33:17] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/snest/public_html/app/Controller/CausesController.php on line 264
+[25-Mar-2013 16:47:25] PHP Fatal error:  Call to a member function flash() on a non-object in /home/snest/public_html/app/View/Causes/createimage_step3.ctp on line 2
+[25-Mar-2013 16:55:15] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/snest/public_html/app/View/Causes/createimage_step3.ctp on line 5
+[25-Mar-2013 18:42:39] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 173
+[26-Mar-2013 09:07:28] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/snest/public_html/app/Controller/CausesController.php on line 289
+[26-Mar-2013 09:07:37] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/snest/public_html/app/Controller/CausesController.php on line 289
+[26-Mar-2013 09:20:00] PHP Parse error:  syntax error, unexpected ';' in /home/snest/public_html/app/Controller/CausesController.php on line 287
+[26-Mar-2013 09:20:04] PHP Parse error:  syntax error, unexpected ';' in /home/snest/public_html/app/Controller/CausesController.php on line 287
+[26-Mar-2013 09:21:11] PHP Parse error:  syntax error, unexpected ';' in /home/snest/public_html/app/Controller/CausesController.php on line 287
+[26-Mar-2013 09:34:57] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 167
+[26-Mar-2013 09:35:49] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 167
+[26-Mar-2013 09:37:17] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 167
+[26-Mar-2013 09:38:53] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 168
+[26-Mar-2013 09:57:02] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 168
+[26-Mar-2013 10:21:55] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/snest/public_html/app/Controller/CausesController.php on line 169
+[26-Mar-2013 10:22:18] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/snest/public_html/app/Controller/CausesController.php on line 270
+[26-Mar-2013 11:15:34] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/CausesController.php on line 121
+[26-Mar-2013 11:18:59] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 177
+[26-Mar-2013 11:21:05] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 177
+[26-Mar-2013 11:22:19] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 177
+[26-Mar-2013 11:23:03] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 177
+[26-Mar-2013 11:25:41] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 177
+[26-Mar-2013 11:25:57] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 177
+[26-Mar-2013 12:50:32] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 177
+[26-Mar-2013 13:57:40] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/crop.ctp on line 17
+[26-Mar-2013 13:58:44] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/crop.ctp on line 14
+[26-Mar-2013 13:59:54] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/crop.ctp on line 13
+[28-Mar-2013 16:00:03] PHP Parse error:  syntax error, unexpected '}' in /home/snest/public_html/app/Controller/ImagesController.php on line 298
+[28-Mar-2013 17:49:04] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/snest/public_html/app/Controller/ImagesController.php on line 270
+[28-Mar-2013 17:49:24] PHP Parse error:  syntax error, unexpected ';' in /home/snest/public_html/app/Controller/ImagesController.php on line 270
+[28-Mar-2013 17:49:40] PHP Parse error:  syntax error, unexpected ';' in /home/snest/public_html/app/Controller/ImagesController.php on line 270
+[28-Mar-2013 17:49:45] PHP Parse error:  syntax error, unexpected ';' in /home/snest/public_html/app/Controller/ImagesController.php on line 270
+[28-Mar-2013 17:50:41] PHP Fatal error:  Call to a member function create() on a non-object in /home/snest/public_html/app/Controller/ImagesController.php on line 268
+[28-Mar-2013 17:51:11] PHP Fatal error:  Call to a member function find() on a non-object in /home/snest/public_html/app/Controller/ImagesController.php on line 269
+[28-Mar-2013 17:52:21] PHP Parse error:  syntax error, unexpected T_VAR in /home/snest/public_html/app/Controller/ImagesController.php on line 269
+[28-Mar-2013 17:58:38] PHP Fatal error:  Call to a member function find() on a non-object in /home/snest/public_html/app/Controller/ImagesController.php on line 282
+[30-Mar-2013 14:25:49] PHP Parse error:  syntax error, unexpected '$', expecting T_FUNCTION in /home/snest/public_html/app/View/Helper/CropimageHelper.php on line 72
+[30-Mar-2013 14:37:42] PHP Parse error:  syntax error, unexpected '$', expecting T_FUNCTION in /home/snest/public_html/app/View/Helper/CropimageHelper.php on line 72
+[30-Mar-2013 14:45:36] PHP Parse error:  syntax error, unexpected '$', expecting T_FUNCTION in /home/snest/public_html/app/View/Helper/CropimageHelper.php on line 72
+[01-Apr-2013 13:07:36] PHP Fatal error:  Call to a member function uploadImage() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 177
+[04-Apr-2013 21:17:27] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17652 bytes) in /home/snest/public_html/app/Controller/Component/JqImgcropComponent.php on line 59
+[04-Apr-2013 21:17:39] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17652 bytes) in /home/snest/public_html/app/Controller/Component/JqImgcropComponent.php on line 59
+[05-Apr-2013 14:18:15] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17695598 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[08-Apr-2013 12:00:20] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/snest/public_html/app/View/Images/view_images.ctp on line 13
+[08-Apr-2013 14:50:19] PHP Fatal error:  Call to a member function image() on a non-object in /home/snest/public_html/app/View/Images/view_images.ctp on line 15
+[08-Apr-2013 14:51:27] PHP Fatal error:  Call to a member function image() on a non-object in /home/snest/public_html/app/View/Images/view_images.ctp on line 15
+[08-Apr-2013 15:27:24] PHP Parse error:  syntax error, unexpected ')' in /home/snest/public_html/app/Controller/ImagesController.php on line 382
+[08-Apr-2013 15:27:48] PHP Parse error:  syntax error, unexpected '{' in /home/snest/public_html/app/Controller/ImagesController.php on line 382
+[08-Apr-2013 15:28:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/snest/public_html/app/Controller/ImagesController.php on line 383
+[08-Apr-2013 15:45:17] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/snest/public_html/app/Controller/ImagesController.php on line 12
+[08-Apr-2013 15:46:15] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/ImagesController.php on line 237
+[08-Apr-2013 16:38:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/snest/public_html/app/Controller/ImagesController.php on line 12
+[09-Apr-2013 14:46:26] PHP Fatal error:  Call to a member function cropImage() on a non-object in /home/snest/public_html/app/Controller/ImagesController.php on line 269
+[09-Apr-2013 14:47:05] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/snest/public_html/app/Controller/ImagesController.php on line 88
+[09-Apr-2013 14:47:05] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/snest/public_html/app/Controller/ImagesController.php on line 88
+[09-Apr-2013 16:23:19] PHP Fatal error:  Can't use method return value in write context in /home/snest/public_html/app/Controller/ImagesController.php on line 266
+[12-Apr-2013 14:42:54] PHP Parse error:  syntax error, unexpected $end, expecting '(' in /home/snest/public_html/app/View/Causes/index.ctp on line 79
+[12-Apr-2013 14:45:35] PHP Parse error:  syntax error, unexpected '}' in /home/snest/public_html/app/View/Causes/index.ctp on line 106
+[12-Apr-2013 14:45:38] PHP Parse error:  syntax error, unexpected '}' in /home/snest/public_html/app/View/Causes/index.ctp on line 106
+[12-Apr-2013 14:45:54] PHP Parse error:  syntax error, unexpected '}' in /home/snest/public_html/app/View/Causes/index.ctp on line 105
+[12-Apr-2013 14:45:56] PHP Parse error:  syntax error, unexpected '}' in /home/snest/public_html/app/View/Causes/index.ctp on line 105
+[12-Apr-2013 14:45:58] PHP Parse error:  syntax error, unexpected '}' in /home/snest/public_html/app/View/Causes/index.ctp on line 105
+[12-Apr-2013 15:26:59] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Causes/add.ctp on line 28
+[12-Apr-2013 15:27:46] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Causes/add.ctp on line 28
+[12-Apr-2013 15:29:50] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/snest/public_html/app/View/Causes/add.ctp on line 28
+[12-Apr-2013 15:35:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/snest/public_html/app/View/Causes/add.ctp on line 28
+[12-Apr-2013 15:35:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/snest/public_html/app/View/Causes/add.ctp on line 28
+[12-Apr-2013 15:35:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/snest/public_html/app/View/Causes/add.ctp on line 28
+[12-Apr-2013 15:35:50] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/snest/public_html/app/View/Causes/add.ctp on line 28
+[13-Apr-2013 10:53:07] PHP Parse error:  syntax error, unexpected '/' in /home/snest/public_html/app/View/Causes/view.ctp on line 32
+[13-Apr-2013 10:54:00] PHP Parse error:  syntax error, unexpected '/' in /home/snest/public_html/app/View/Causes/view.ctp on line 32
+[13-Apr-2013 12:05:04] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Helper/CropimageHelper.php on line 85
+[13-Apr-2013 12:05:21] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Helper/CropimageHelper.php on line 85
+[13-Apr-2013 12:25:52] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/snest/public_html/app/View/Helper/CropimageHelper.php on line 87
+[16-Apr-2013 14:28:26] PHP Parse error:  syntax error, unexpected '=' in /home/snest/public_html/app/View/Causes/add.ctp on line 30
+[16-Apr-2013 15:36:16] PHP Parse error:  syntax error, unexpected T_STRING in /home/snest/public_html/app/View/Causes/add.ctp on line 27
+[16-Apr-2013 15:36:40] PHP Parse error:  syntax error, unexpected T_STRING in /home/snest/public_html/app/View/Causes/add.ctp on line 27
+[17-Apr-2013 09:48:13] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17647151 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[17-Apr-2013 10:21:20] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/snest/public_html/app/Controller/ImagesController.php on line 399
+[17-Apr-2013 10:22:46] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/snest/public_html/app/Controller/ImagesController.php on line 399
+[17-Apr-2013 10:22:48] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/snest/public_html/app/Controller/ImagesController.php on line 399
+[17-Apr-2013 10:23:28] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/ImagesController.php on line 399
+[17-Apr-2013 10:23:58] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/ImagesController.php on line 395
+[17-Apr-2013 10:35:28] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/ImagesController.php on line 398
+[17-Apr-2013 10:36:26] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/ImagesController.php on line 398
+[17-Apr-2013 10:37:02] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/ImagesController.php on line 398
+[17-Apr-2013 10:44:17] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/snest/public_html/app/Controller/ImagesController.php on line 391
+[17-Apr-2013 10:45:06] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/snest/public_html/app/Controller/ImagesController.php on line 391
+[17-Apr-2013 10:45:39] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/ImagesController.php on line 397
+[17-Apr-2013 10:49:53] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/snest/public_html/app/Controller/ImagesController.php on line 89
+[17-Apr-2013 10:49:53] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/snest/public_html/app/Controller/ImagesController.php on line 89
+[17-Apr-2013 10:50:21] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/ImagesController.php on line 397
+[17-Apr-2013 10:51:12] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/Controller/ImagesController.php on line 393
+[17-Apr-2013 11:22:42] PHP Fatal error:  Cannot redeclare ImagesController::thankyou() in /home/snest/public_html/app/Controller/ImagesController.php on line 135
+[17-Apr-2013 11:23:20] PHP Fatal error:  Cannot redeclare ImagesController::thankyou() in /home/snest/public_html/app/Controller/ImagesController.php on line 135
+[17-Apr-2013 12:00:54] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17647151 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[17-Apr-2013 12:43:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_VARIABLE in /home/snest/public_html/app/Model/Cause.php on line 56
+[17-Apr-2013 15:28:59] PHP Fatal error:  Call to a member function find() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 51
+[17-Apr-2013 15:29:15] PHP Fatal error:  Call to a member function find() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 51
+[17-Apr-2013 15:32:13] PHP Parse error:  syntax error, unexpected ';' in /home/snest/public_html/app/Controller/CausesController.php on line 62
+[20-Apr-2013 12:31:01] PHP Fatal error:  Call to a member function find() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 52
+[20-Apr-2013 12:31:57] PHP Fatal error:  Call to a member function find() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 52
+[20-Apr-2013 13:16:03] PHP Parse error:  syntax error, unexpected '}' in /home/snest/public_html/app/Controller/CausesController.php on line 37
+[22-Apr-2013 09:57:26] PHP Parse error:  syntax error, unexpected '*' in /home/snest/public_html/app/Controller/CausesController.php on line 51
+[22-Apr-2013 09:57:26] PHP Parse error:  syntax error, unexpected '*' in /home/snest/public_html/app/Controller/CausesController.php on line 51
+[22-Apr-2013 09:57:38] PHP Parse error:  syntax error, unexpected '*' in /home/snest/public_html/app/Controller/CausesController.php on line 51
+[22-Apr-2013 15:03:37] PHP Parse error:  syntax error, unexpected T_VAR in /home/snest/public_html/app/Controller/CausesController.php on line 3
+[22-Apr-2013 16:23:23] PHP Parse error:  syntax error, unexpected ';' in /home/snest/public_html/app/View/Causes/index.ctp on line 251
+[22-Apr-2013 16:23:27] PHP Parse error:  syntax error, unexpected ';' in /home/snest/public_html/app/View/Causes/index.ctp on line 251
+[22-Apr-2013 16:23:51] PHP Fatal error:  Unsupported operand types in /home/snest/public_html/lib/Cake/View/Helper/PaginatorHelper.php on line 696
+[22-Apr-2013 16:23:58] PHP Fatal error:  Unsupported operand types in /home/snest/public_html/lib/Cake/View/Helper/PaginatorHelper.php on line 696
+[22-Apr-2013 16:24:21] PHP Fatal error:  Unsupported operand types in /home/snest/public_html/lib/Cake/View/Helper/PaginatorHelper.php on line 696
+[22-Apr-2013 16:25:30] PHP Fatal error:  Unsupported operand types in /home/snest/public_html/lib/Cake/View/Helper/PaginatorHelper.php on line 696
+[22-Apr-2013 16:25:54] PHP Fatal error:  Unsupported operand types in /home/snest/public_html/lib/Cake/View/Helper/PaginatorHelper.php on line 696
+[24-Apr-2013 13:03:00] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/snest/public_html/app/View/Causes/index.ctp on line 146
+[24-Apr-2013 13:13:25] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18159778 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[24-Apr-2013 14:04:32] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/View/Causes/index.ctp on line 243
+[24-Apr-2013 14:50:53] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/snest/public_html/app/View/Images/images.ctp on line 25
+[24-Apr-2013 14:52:44] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/snest/public_html/app/View/Images/images.ctp on line 25
+[25-Apr-2013 06:54:49] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/snest/public_html/app/View/Causes/view.ctp on line 74
+[25-Apr-2013 07:11:35] PHP Parse error:  syntax error, unexpected T_ECHO in /home/snest/public_html/app/View/Causes/view.ctp on line 77
+[25-Apr-2013 07:39:41] PHP Fatal error:  Call to undefined function add_action() in /home/snest/public_html/app/View/Causes/view.ctp on line 13
+[25-Apr-2013 10:48:32] PHP Fatal error:  Call to a member function find() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 291
+[25-Apr-2013 10:49:20] PHP Fatal error:  Call to a member function find() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 291
+[25-Apr-2013 10:50:24] PHP Fatal error:  Call to a member function find() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 291
+[25-Apr-2013 10:50:37] PHP Fatal error:  Can't use method return value in write context in /home/snest/public_html/app/Controller/CausesController.php on line 287
+[25-Apr-2013 10:53:12] PHP Parse error:  syntax error, unexpected '{' in /home/snest/public_html/app/Controller/CausesController.php on line 287
+[25-Apr-2013 10:53:32] PHP Parse error:  syntax error, unexpected '{' in /home/snest/public_html/app/Controller/CausesController.php on line 287
+[25-Apr-2013 10:53:34] PHP Parse error:  syntax error, unexpected '{' in /home/snest/public_html/app/Controller/CausesController.php on line 287
+[25-Apr-2013 10:53:39] PHP Fatal error:  Call to a member function create() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 286
+[25-Apr-2013 10:54:53] PHP Fatal error:  Call to a member function create() on a non-object in /home/snest/public_html/app/Controller/CausesController.php on line 286
+[25-Apr-2013 10:57:52] PHP Fatal error:  Call to a member function flash() on a non-object in /home/snest/public_html/app/View/Causes/login.ctp on line 2
+[25-Apr-2013 10:58:29] PHP Fatal error:  Call to a member function link() on a non-object in /home/snest/public_html/app/View/Causes/login.ctp on line 6
+[25-Apr-2013 12:24:50] PHP Fatal error:  Call to a member function link() on a non-object in /home/snest/public_html/app/View/Layouts/admin.ctp on line 126
+[27-Apr-2013 11:47:03] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/View/Causes/index.ctp on line 571
+[27-Apr-2013 12:22:46] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18643609 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[27-Apr-2013 13:33:46] PHP Parse error:  syntax error, unexpected $end in /home/snest/public_html/app/View/Layouts/default.ctp on line 74
+[27-Apr-2013 13:34:24] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/default.ctp on line 177
+[27-Apr-2013 13:34:27] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/default.ctp on line 177
+[27-Apr-2013 13:34:33] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/default.ctp on line 177
+[27-Apr-2013 13:42:47] PHP Fatal error:  Call to undefined function triggererror() in /home/snest/public_html/app/View/Causes/index.ctp on line 159
+[27-Apr-2013 13:43:43] PHP Fatal error:  Call to undefined function filegetcontents() in /home/snest/public_html/app/View/Causes/index.ctp on line 163
+[27-Apr-2013 13:44:09] PHP Fatal error:  Call to undefined function pregmatch() in /home/snest/public_html/app/View/Causes/index.ctp on line 165
+[27-Apr-2013 14:37:33] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 161
+[27-Apr-2013 14:38:00] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 161
+[27-Apr-2013 14:39:40] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 162
+[27-Apr-2013 14:55:30] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 158
+[27-Apr-2013 14:56:23] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 158
+[27-Apr-2013 14:57:31] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 159
+[27-Apr-2013 14:57:40] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 159
+[27-Apr-2013 14:57:44] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 159
+[27-Apr-2013 14:57:52] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 159
+[27-Apr-2013 14:57:54] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 159
+[27-Apr-2013 14:57:55] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 159
+[27-Apr-2013 14:59:11] PHP Fatal error:  Call to undefined function geoip_open() in /home/snest/public_html/app/View/Causes/index.ctp on line 159
+[27-Apr-2013 15:48:54] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'geoip.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/Vendor/geoipcity.php on line 33
+[27-Apr-2013 15:49:15] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'geoip.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/snest/public_html/app/Vendor/geoipcity.php on line 33
+[27-Apr-2013 16:06:16] PHP Fatal error:  Call to undefined function geoip_record_by_addr() in /home/snest/public_html/app/View/Causes/index.ctp on line 156
+[27-Apr-2013 16:06:20] PHP Fatal error:  Call to undefined function geoip_record_by_addr() in /home/snest/public_html/app/View/Causes/index.ctp on line 156
+[27-Apr-2013 16:09:01] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/default.ctp on line 57
+[27-Apr-2013 16:10:46] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/default.ctp on line 57
+[27-Apr-2013 16:11:55] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/default.ctp on line 57
+[27-Apr-2013 16:11:59] PHP Parse error:  syntax error, unexpected '<' in /home/snest/public_html/app/View/Layouts/default.ctp on line 57
+[27-Apr-2013 16:14:55] PHP Fatal error:  Call to undefined function geoip_country_name_by_name() in /home/snest/public_html/app/View/Causes/index.ctp on line 155
+[27-Apr-2013 16:20:21] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16606211 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[27-Apr-2013 20:19:18] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18643652 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[27-Apr-2013 21:24:16] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18643652 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[28-Apr-2013 00:57:47] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18643664 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[28-Apr-2013 01:46:47] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16354101 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[28-Apr-2013 02:41:16] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18643620 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950
+[28-Apr-2013 07:33:17] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19466241 bytes) in /home/snest/public_html/app/View/Layouts/default.ctp on line 208
+[29-Apr-2013 15:10:52] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/snest/public_html/app/Controller/DesignsController.php on line 17
+[29-Apr-2013 15:11:16] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/snest/public_html/app/Controller/DesignsController.php on line 30
+[30-Apr-2013 12:04:06] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16185345 bytes) in /home/snest/public_html/lib/Cake/View/View.php on line 950

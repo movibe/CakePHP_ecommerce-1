@@ -1,0 +1,62 @@
+
+#uploadContainer{
+	width: 534px;
+	height:52px;
+	margin: 0px auto;
+	padding-bottom:8px;
+	text-align:center;
+}
+
+
+
+#cropImageAndThumbContainer{
+	width: 964px;
+	margin: 0px auto;
+	text-align: left;
+	overflow: hidden; /* for standards compliant browsers */
+    width: 100&#37;; /* for IE */
+
+}
+
+#cropImageContainer{
+	text-align:center;
+	background-color:#FFFFFF;
+	padding: 10px;
+	margin-top:20px;
+	margin-bottom:20px;
+	float:left;
+	
+}
+
+#thumbnailPreviewContainer{
+	width: 183px;
+	height: 173px;
+	text-align:center;
+	background-color:#FFF;
+	padding-top:10px;
+	margin-top:20px;
+	margin-left:20px;
+	float:left;
+}
+
+#thumbnailDetailsContainer{
+	width: 183px;
+	height: 173px;
+	text-align:center;
+	background-color:#FFF;
+	padding-top:10px;
+	margin-top:20px;
+	float:left;
+}
+
+
+
+#imageDetailsContainer{
+	width: 964px;
+	margin: 0px auto;
+	text-align: left;
+	overflow: hidden; /* for standards compliant browsers */
+    width: 100&#37;; /* for IE */
+
+}
+

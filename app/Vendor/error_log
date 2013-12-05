@@ -1,0 +1,4 @@
+[27-Apr-2013 14:20:16] PHP Fatal error:  error traversing database - perhaps it is corrupt? in /home/snest/public_html/ip/geoip.inc on line 620
+[27-Apr-2013 14:20:21] PHP Fatal error:  error traversing database - perhaps it is corrupt? in /home/snest/public_html/ip/geoip.inc on line 620
+[27-Apr-2013 14:20:40] PHP Fatal error:  error traversing database - perhaps it is corrupt? in /home/snest/public_html/ip/geoip.inc on line 620
+[27-Apr-2013 14:20:43] PHP Fatal error:  error traversing database - perhaps it is corrupt? in /home/snest/public_html/ip/geoip.inc on line 620
